@@ -1,2 +1,11 @@
-# minimal-landing-page
-Minimal Landing Page Template
+# Minimal Landing Page Template
+
+Customize the `_config.yaml`:
+
+```yaml
+remote_theme: nathanclevenger/landing
+
+icon: 🚀
+name: Minimal.Landing.Page.as
+description: Get your idea launched in seconds with simplest and most easy-to-use landing page template you've ever worked with.
+```
